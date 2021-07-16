@@ -1,0 +1,1 @@
+removeAt :: Int -> [a] -> [a]
